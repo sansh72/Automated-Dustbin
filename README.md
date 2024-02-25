@@ -1,5 +1,5 @@
 # Automated-Dustbin
-Repo: Arduino-based dusting system with HC-SR04 sensor. Detects dust, triggers cleaning with microfiber brushes/air jets via Arduino Uno. Revolutionizes cleaning with efficiency, versatility for homes, businesses. Compact, customizable design ensures thorough cleaning in tight spaces. Experience the future of cleanliness!
+Arduino-based dusting system with HC-SR04 sensor. Detects dust, triggers cleaning with microfiber brushes/air jets via Arduino Uno. Revolutionizes cleaning with efficiency, versatility for homes, businesses. Compact, customizable design ensures thorough cleaning in tight spaces. Experience the future of cleanliness!
 
 Trigger Pin: When the Arduino sends a short pulse (usually 10 microseconds) to the trigger pin, it initiates the measurement process. This pulse acts as a signal to the sensor to start emitting ultrasonic waves.
 
